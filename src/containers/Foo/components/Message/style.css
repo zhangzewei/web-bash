@@ -1,0 +1,17 @@
+.message {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.message .label {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 20%;
+}
+
+.result{
+  width: 60%;
+  height: auto;
+  margin: 50px auto;
+  text-align-last: left;
+}
